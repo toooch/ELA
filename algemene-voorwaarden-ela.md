@@ -1,5 +1,5 @@
 # Algemene Voorwaarden
-**Laatst bijgewerkt:** 07-11-2024
+**Laatst bijgewerkt:** 07-11-2024<br>
 Dit document betreft “ELA Editor” en “ELA Web-extensie” (“de App”) Door gebruik te maken van deze App, beschikbaar gesteld door Tomas Corver (“de Dienstverlener,” “ik,” of “mijn”), stemt u (“de Gebruiker,” “jij,” of “je”) in met deze Algemene Voorwaarden (de “Voorwaarden”). Als je niet akkoord gaat met deze Voorwaarden, mag je de App niet gebruiken.
 
 ## 1. Acceptatie van de Voorwaarden
