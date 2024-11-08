@@ -23,8 +23,8 @@ De gebruikershandleiding voor de editor is [hier](gebruikershandleiding-editor.m
 
 
 ## Problemen en contact
-Mochten er problemen optreden tijdens het gebruik van een onderdeel van de ELA-service kan er contact worden opgenomen met de ontwikkelaar:
-**Tomas Corver**
+Mochten er problemen optreden tijdens het gebruik van een onderdeel van de ELA-service kan er contact worden opgenomen met de ontwikkelaar:<br>
+**Tomas Corver**<br>
 E-mailadres kan worden gevonden op de [GitHub-profielpagina](https://github.com/toooch)
 
 
