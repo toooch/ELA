@@ -39,3 +39,5 @@ E-mailadres kan worden gevonden op de [GitHub-profielpagina](https://github.com/
 
 ## Relevante documenten
 Hier vindt u de [Privacyverklaring](privacyverklaring-ela.md) en de [Algemene Voorwaarden](algemene-voorwaarden-ela.md) die van toepassing zijn op de ELA-service.
+
+Tomas Corver 2024
