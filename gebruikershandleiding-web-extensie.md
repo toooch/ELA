@@ -25,7 +25,7 @@ Gebruikershandleiding voor ELA Web-extensie
 ![Ref 6](img/ela_we/ref6.png)
 
 ## Problemen
-Hier staan per stap van de [uitleg](#uitleg) verschillende mogelijke problemen beschreven met daarbij een mogelijke oplossing.
+Hier staan per stap van de [uitleg](#uitleg) verschillende problemen beschreven die kunnen voorkomen, met daarbij een mogelijke oplossing.
 ### Stap 1
 Als de knop er niet staat, kan het zijn dat de ELA Web-extensie niet goed is geïnstalleerd. Om een ELA-service te installeren ga je naar de [kennisbasis](README.md#downloads)
 ### Stap 3
