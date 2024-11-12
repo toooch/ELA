@@ -33,4 +33,4 @@ Als er na 10 seconden niets gebeurd, kan het zijn dat de extensie en de pagina n
 
 ## Foutrapporten
 Bij problemen of fouten, open het [extensietabblad](chrome://extensions) en klik op de rode "Fouten" knop.<br>
-Maak een screenshot van de pagina (<kbd>![Windows logo](https://i.sstatic.net/Rfuw7.png)</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>) en stuur deze op.
+Maak een screenshot van de pagina (<kbd>Win</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>) en stuur deze op.
