@@ -1,3 +1,5 @@
+[winlogo]: https://i.sstatic.net/Rfuw7.png
+
 Gebruikershandleiding voor ELA Web-extensie
 
 ## Snelle navigatie
@@ -30,3 +32,7 @@ Hier staan per stap van de [uitleg](#uitleg) verschillende problemen beschreven 
 Als de knop er niet staat, kan het zijn dat de ELA Web-extensie niet goed is geïnstalleerd. Om een ELA-service te installeren ga je naar de [kennisbasis](README.md#downloads)
 ### Stap 3
 Als er na 10 seconden niets gebeurd, kan het zijn dat de extensie en de pagina niet met elkaar gesynchroniseerd zijn. Dit is op te lossen door de pagina te verversen (<kbd>F5</kbd> of <kbd>Ctrl</kbd> + <kbd>R</kbd>).
+
+## Foutrapporten
+Bij problemen of fouten, open het [extensietabblad](chrome://extensions) en klik op de rode "Fouten" knop.<br>
+Maak een screenshot van de pagina (<kbd>![Windows logo][winlogo]</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>) en stuur deze op.
