@@ -25,4 +25,4 @@ Gebruikershandleiding voor ELA Editor
 ![Ref 6](img/elae/ref6.png)
 
 ## Problemen
-De meeste problemen kunnen wordne verholpen door de applicatie opnieuw op te starten. Werkt dit niet, [neem contact op](readme.md#problemen-en-contact).
+De meeste problemen kunnen worden verholpen door de applicatie opnieuw op te starten. Werkt dit niet, [neem contact op](readme.md#problemen-en-contact).
