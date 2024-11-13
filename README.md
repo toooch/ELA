@@ -27,8 +27,8 @@ De gebruikershandleiding voor de editor is [hier](gebruikershandleiding-editor.m
 > **LET OP:** Het is niet toegestaan ELA-services te downloaden zonder toestemming.
 
 De twee onderdelen zijn apart van elkaar te downloaden.<br>
-ELA Web-extensie: [https://github.com/toooch/ela-web-public/README](https://github.com/toooch/ela-web-public/README) <br>
-ELA Editor: [https://github.com/toooch/ela-editor-public/README](https://github.com/toooch/ela-editor-public/README)
+ELA Web-extensie: [https://github.com/toooch/ela-web-public](https://github.com/toooch/ela-web-public) <br>
+ELA Editor: [https://github.com/toooch/ela-editor-public](https://github.com/toooch/ela-editor-public)
 
 
 ## Problemen en contact
